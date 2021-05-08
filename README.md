@@ -14,7 +14,7 @@
 | 920120305 | Allison Diego              | Análise e Desenvolvimento de Sistemas | 03/A |
 
  
-Logs
+####Logs
 v0.1: Início do jogo
 
 - Protótipo do mapa;
