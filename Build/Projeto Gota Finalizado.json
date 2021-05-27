@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Projeto Gota",
+"productVersion": "2.5",
+"dataUrl": "Projeto Gota Finalizado.data.unityweb",
+"wasmCodeUrl": "Projeto Gota Finalizado.wasm.code.unityweb",
+"wasmFrameworkUrl": "Projeto Gota Finalizado.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.22f1"
+}
